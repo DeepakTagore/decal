@@ -1,0 +1,16 @@
+{
+    "name": "funcal",
+    "version": "0.0.2",
+    "main": "cal.js",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/DeepakTagore/decal.git"
+    },
+    "keywords": [
+        "funcal"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
